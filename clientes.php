@@ -36,7 +36,7 @@
 	<div id="container">
 		<main>
 			<h2>Clientes</h2>
-
+			<a href="cad_clientes.php">Cadastrar Novo clientes</a>
 			<table class="tabela-dados">
 					<thead>
 						<tr>
