@@ -48,6 +48,15 @@ $estacionamento =
 	
 	<header>
 		<h1>ℙ IF Park</h1>
+		<nav>
+			<ul id="menu">
+				<li><a href="estacionados.php">Estacionados</a></li>
+				<li><a href="patio.php">Pátios</a></li>
+				<li class="ativo"><a href="clientes.php">Clientes</a></li>
+				<li><a href="veiculos.php">Veículos</a></li>
+				<li><a href="modelos.php">Modelos</a></li>
+			</ul>
+		</nav>
 	</header>
 	<div id="container">
 		<main>
